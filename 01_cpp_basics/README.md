@@ -34,5 +34,11 @@
 32. [`32_operator_overloading.md`](32_operator_overloading.md)
 33. [`33_concurrency_basics.md`](33_concurrency_basics.md)
 34. [`34_build_systems_and_dependencies.md`](34_build_systems_and_dependencies.md)
+35. [`35_debugging_and_diagnostics.md`](35_debugging_and_diagnostics.md)
+36. [`36_testing.md`](36_testing.md)
+37. [`37_time_and_chrono.md`](37_time_and_chrono.md)
+38. [`38_random_numbers.md`](38_random_numbers.md)
+39. [`39_numeric_safety.md`](39_numeric_safety.md)
+40. [`40_code_quality_and_style.md`](40_code_quality_and_style.md)
 
 今後、参照、ポインタ、メモリ、構造体、クラス、テンプレート、STL、エラー処理、並行処理などをそれぞれ別ノートとして追加します。
