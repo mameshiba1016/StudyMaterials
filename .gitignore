@@ -1,0 +1,24 @@
+# CMakeの生成物
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Visual Studio
+.vs/
+*.slnx.user
+*.vcxproj.user
+
+# コンパイル生成物
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+
+# Unreal Engineの巨大な生成物（将来サンプルを追加する場合）
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
