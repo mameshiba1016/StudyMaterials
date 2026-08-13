@@ -9,5 +9,10 @@
 3. [`03_finite_state_machines.md`](03_finite_state_machines.md)
 4. [`04_steering_behaviors.md`](04_steering_behaviors.md)
 5. [`05_graph_search_and_astar.md`](05_graph_search_and_astar.md)
+6. [`06_navigation_meshes.md`](06_navigation_meshes.md)
+7. [`07_behavior_trees.md`](07_behavior_trees.md)
+8. [`08_blackboards.md`](08_blackboards.md)
+9. [`09_utility_ai.md`](09_utility_ai.md)
+10. [`10_combat_director_and_group_ai.md`](10_combat_director_and_group_ai.md)
 
-今後、NavMesh、Behavior Tree、Blackboard、Utility AI、Combat Director、Boss AI、難易度、性能、デバッグを追加します。
+今後、Boss AI、難易度、性能、デバッグを追加します。
