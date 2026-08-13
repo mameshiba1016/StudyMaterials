@@ -1,5 +1,20 @@
 # 02 2Dゲーム開発
 
-予定ノート：ゲームループ、時間、入力、スプライト描画、座標、アニメーション、AABB・円・線分衝突、2Dカメラ、タイルマップ、シーン、UI、サウンド、2D物理、アクション戦闘、完成作品設計。
+標準C++で身につけた知識を、リアルタイム2Dゲームのシステムへ接続します。特定ライブラリの関数暗記ではなく、ゲームループ、時間、入力、座標、描画、衝突、状態管理の原理を理解します。
 
-各システムについて、エンジン非依存の原理、C++設計、実際のライブラリでの実装を分離して解説します。
+## ノート
+
+1. [`01_2d_game_architecture.md`](01_2d_game_architecture.md)
+2. [`02_game_loop.md`](02_game_loop.md)
+3. [`03_time_and_frame_control.md`](03_time_and_frame_control.md)
+4. [`04_input_system.md`](04_input_system.md)
+5. [`05_2d_coordinates_and_vectors.md`](05_2d_coordinates_and_vectors.md)
+6. [`06_sprite_rendering.md`](06_sprite_rendering.md)
+7. [`07_2d_camera.md`](07_2d_camera.md)
+8. [`08_sprite_animation.md`](08_sprite_animation.md)
+
+今後、衝突判定、物理、タイルマップ、シーン、UI、サウンド、パーティクル、2Dアクション戦闘、敵・ボス、セーブ、最適化を独立ノートとして追加します。
+
+## 擬似APIについて
+
+コード中の`Window`、`Renderer`、`Texture`、`InputBackend`などは原理説明用の型です。そのままコンパイルできる特定ライブラリのAPIではありません。使用例編では、選定したライブラリへ具体的に接続します。
