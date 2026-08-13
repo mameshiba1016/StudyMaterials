@@ -39,6 +39,10 @@ UE固有の仕組みは、標準C++の代用品ではありません。標準C++
 31. [BlackboardとBehavior Tree](31_blackboard_behavior_tree.md)
 32. [NavigationとEQS](32_navigation_eqs.md)
 33. [Combat Directorと複数敵制御](33_combat_director.md)
+34. [Gameplay Ability Systemの全体像](34_gas_overview.md)
+35. [Gameplay TagとASCの所有設計](35_gameplay_tags_asc.md)
+36. [Attribute SetとGameplay Effect](36_attributes_effects.md)
+37. [Gameplay Ability、Ability Task、Gameplay Cue](37_abilities_tasks_cues.md)
 
 ## 今後追加する主題
 
