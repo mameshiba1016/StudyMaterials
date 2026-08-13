@@ -14,10 +14,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 8. [Prefab・Nested Prefab・Prefab Variant](08_prefab_variants.md)
 9. [New Input System・Action・入力バッファ](09_new_input_system.md)
 10. [Time・Update・FixedUpdate・Coroutine・async/await](10_time_fixedupdate_coroutine_async.md)
+11. [2D/3D Physics・Collider・Layer・戦闘判定](11_physics_2d_3d_layers.md)
 
 ## 今後制作するノート
 
-11. 2D/3D PhysicsとLayer
 12. Character Controller
 13. Animator・Animation Event・Root Motion
 14. CinemachineとCamera
