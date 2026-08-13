@@ -49,6 +49,6 @@
 - [x] 2Dゲーム開発（23章の初稿完成）
 - [x] 3Dゲーム開発（25章の初稿完成）
 - [x] ゲームAI（13章の初稿完成）
-- [~] Unreal Engine（基礎5章：全体像、ビルド、リフレクション、GC、基本型を追加）
+- [~] Unreal Engine（10章：基盤に加えActor、Component、ライフサイクル、Pawn、Controllerを追加）
 - [ ] Unity（Unreal Engine編の後に34章を制作予定）
 - [ ] 対応する実行例
