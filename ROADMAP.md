@@ -34,6 +34,14 @@ C#、Managed Memory、Unityの実行順序、GameObjectとComponent、Prefab、S
 
 Unreal EngineとUnityを表面的なAPI名ではなく、所有権、Object寿命、Reflection、Serialization、Rendering、Animation、並列処理、ビルドの違いから比較します。
 
-## Phase 9：エンジン設計・品質
+## Phase 9：DXライブラリ
+
+初期化、ゲームループ、入力、2D／3D描画、Model、Camera、Collision、Animation、Scene、Resource管理を学び、C++だけで3D戦闘アクションへ統合します。ライブラリ関数を呼ぶだけでなく、その外側に安全なゲーム設計を構築します。
+
+## Phase 10：DirectX
+
+WindowsとCOM、Device／Context、Swap Chain、Buffer、Texture、Pipeline State、HLSL、Shader、Descriptor、Command List、同期、Frame Resource、GPU Debug、独自Renderer設計を段階的に学びます。DirectX 11で基礎を可視化し、DirectX 12の明示的なResource・同期管理へ進みます。
+
+## Phase 11：エンジン設計・品質
 
 ECS、Resource管理、Scene、Event、並列処理、デバッグ、テスト、CPU/GPU最適化を横断的に学びます。

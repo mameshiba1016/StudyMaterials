@@ -48,6 +48,10 @@ UE固有の仕組みは、標準C++の代用品ではありません。標準C++
 40. [UMG UIとイベント駆動HUD](40_umg_ui.md)
 41. [Data Asset、Soft Reference、非同期ロード](41_data_assets_async_loading.md)
 42. [SaveGame、バージョン管理、非同期保存](42_save_game.md)
+43. [Replication、Authority、RepNotify](43_replication_authority.md)
+44. [RPC、所有Connection、戦闘同期](44_rpc_network_combat.md)
+45. [Unreal Insightsと最適化](45_profiling_optimization.md)
+46. [Cook、Package、Shipping確認](46_packaging_shipping.md)
 
 ## 今後追加する主題
 

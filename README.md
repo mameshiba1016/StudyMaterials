@@ -1,6 +1,6 @@
 # StudyMaterials
 
-C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unityを、基礎からゲームクライアント開発レベルまで体系的に学ぶための教材リポジトリです。
+C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unity、DXライブラリ、DirectXを、基礎からゲームクライアント開発レベルまで体系的に学ぶための教材リポジトリです。
 
 ## 教材の原則
 
@@ -25,6 +25,8 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unityを、基�
 | 04 | `04_game_ai` | FSM、経路探索、Behavior Tree、Utility AI |
 | 05 | `05_unreal_engine` | Unreal C++、Gameplay Framework、Animation、GAS |
 | 06U | `06_unity` | C#、GameObject、Prefab、Animation、DOTS、Unity製3Dアクション |
+| 07D | `07_dxlib` | DXライブラリによる2D／3Dゲーム実装、設計、アクションゲーム統合 |
+| 08D | `08_directx` | DirectX、GPU Pipeline、Resource、Shader、描画Engine基盤 |
 | 06 | `06_engine_architecture` | ECS、リソース、シーン、イベント、並列処理 |
 | 07 | `07_debug_performance` | デバッグ、テスト、CPU/GPU最適化 |
 | 90 | `90_examples` | ノートに対応する独立した実行例（順次追加） |
