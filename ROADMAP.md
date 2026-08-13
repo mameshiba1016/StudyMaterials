@@ -37,7 +37,3 @@ Unreal EngineとUnityを表面的なAPI名ではなく、所有権、Object寿�
 ## Phase 9：エンジン設計・品質
 
 ECS、Resource管理、Scene、Event、並列処理、デバッグ、テスト、CPU/GPU最適化を横断的に学びます。
-
-## Phase 10：就職作品
-
-オリジナル戦闘アクションを、設計、実装、テスト、計測、技術資料、プレイ動画まで含めて完成させます。

@@ -25,7 +25,6 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unityを、基�
 | 06U | `06_unity` | C#、GameObject、Prefab、Animation、DOTS、Unity製3Dアクション |
 | 06 | `06_engine_architecture` | ECS、リソース、シーン、イベント、並列処理 |
 | 07 | `07_debug_performance` | デバッグ、テスト、CPU/GPU最適化 |
-| 08 | `08_portfolio` | 作品設計、技術資料、面接準備 |
 | 90 | `90_examples` | ノートに対応する独立した実行例（順次追加） |
 
 詳しい学習順序は[`ROADMAP.md`](ROADMAP.md)を参照してください。
