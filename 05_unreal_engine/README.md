@@ -52,9 +52,12 @@ UE固有の仕組みは、標準C++の代用品ではありません。標準C++
 44. [RPC、所有Connection、戦闘同期](44_rpc_network_combat.md)
 45. [Unreal Insightsと最適化](45_profiling_optimization.md)
 46. [Cook、Package、Shipping確認](46_packaging_shipping.md)
+47. [高速3D戦闘アクションの総合Architecture](47_action_game_architecture.md)
+48. [デバッグ、Automation Test、障害診断](48_testing_debugging.md)
+49. [Unreal Engine編・完成確認表](49_completion_checklist.md)
 
-## 今後追加する主題
+## 初稿で扱った主題
 
-Actor／Component／Pawn／Character、Controller、GameMode系、Subsystem、Enhanced Input、座標とTransform、Collision、Character Movement、カメラとターゲットロック、Animation Blueprint、Montage、Notify、コンボとキャンセル、回避・パリィ、キャラクター交代、AI Controller、Behavior Tree、EQS、Gameplay Ability System、VFX・Niagara、サウンド、UI、SaveGame、非同期ロード、Data Asset、Replication、プロファイリング、最適化、パッケージングを順番に分冊します。
+標準C++との差、UBT／UHT、Reflection、GC、Actor／Component／Pawn／Character、Controller、GameMode系、Subsystem、Enhanced Input、Transform、Collision、Character Movement、CameraとTarget Lock、Animation Blueprint、Montage、Notify、ComboとCancel、Dodge・Parry、Character交代、AI Controller、Behavior Tree、EQS、Gameplay Ability System、Niagara、Sound、UI、SaveGame、非同期Load、Data Asset、Replication、Profiling、最適化、Packagingを分冊しました。
 
 > バージョンでAPIやエディタ画面が変わる部分は、使用中のUEバージョンに対応するEpic Games公式ドキュメントも確認してください。本章では、長期間通用する設計原則と内部構造を中心に説明します。

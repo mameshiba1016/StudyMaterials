@@ -35,4 +35,4 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unity、DXライ
 
 ## 現在の制作段階
 
-C++基礎編と2D編の初稿が完成し、現在は3D編を制作中です。完成済み・未完成を[`PROGRESS.md`](PROGRESS.md)で明示します。
+C++基礎編、2D編、3D編、ゲームAI編、Unreal Engine編の初稿が完成し、次はUnity編を制作します。完成済み・未完成を[`PROGRESS.md`](PROGRESS.md)で明示します。
