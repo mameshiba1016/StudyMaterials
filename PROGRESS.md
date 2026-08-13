@@ -48,7 +48,7 @@
 
 - [x] 2Dゲーム開発（23章の初稿完成）
 - [x] 3Dゲーム開発（25章の初稿完成）
-- [~] ゲームAI目次
+- [~] ゲームAI（Architecture・知覚・FSM・Steering・A*の5章完成、続編を執筆中）
 - [~] Unreal Engine目次
 - [ ] Unity（Unreal Engine編の後に34章を制作予定）
 - [ ] 対応する実行例

@@ -1,5 +1,13 @@
 # 04 ゲームAI
 
-予定ノート：AI更新ループ、有限状態機械、ステアリング、グリッド・ナビゲーション、Dijkstra、A*、Behavior Tree、Blackboard、Utility AI、知覚、群衆、戦闘AI、ボスAI、難易度調整、デバッグ可視化。
+ゲームAIは機械学習だけを意味しません。認識、記憶、意思決定、移動、戦闘、集団制御を組み合わせ、プレイヤーに理解・対処できる体験を作ります。
 
-機械学習だけをAIと呼ばず、ゲーム体験を設計する意思決定システム全体を扱います。
+## ノート
+
+1. [`01_ai_architecture.md`](01_ai_architecture.md)
+2. [`02_perception_and_memory.md`](02_perception_and_memory.md)
+3. [`03_finite_state_machines.md`](03_finite_state_machines.md)
+4. [`04_steering_behaviors.md`](04_steering_behaviors.md)
+5. [`05_graph_search_and_astar.md`](05_graph_search_and_astar.md)
+
+今後、NavMesh、Behavior Tree、Blackboard、Utility AI、Combat Director、Boss AI、難易度、性能、デバッグを追加します。
