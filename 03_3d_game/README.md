@@ -22,8 +22,11 @@
 16. [`16_inverse_kinematics.md`](16_inverse_kinematics.md)
 17. [`17_3d_collision_and_queries.md`](17_3d_collision_and_queries.md)
 18. [`18_rigid_body_physics.md`](18_rigid_body_physics.md)
+19. [`19_3d_character_controller.md`](19_3d_character_controller.md)
+20. [`20_action_camera_and_target_lock.md`](20_action_camera_and_target_lock.md)
+21. [`21_3d_action_combat.md`](21_3d_action_combat.md)
 
-今後、Spatial Partition、3D Character Controller、3D Camera、Action Combat、Optimizationを追加します。
+今後、Spatial Partition、Character Switching/Assist、Combat Presentation、Optimizationを追加します。
 
 ## 数式・擬似APIについて
 

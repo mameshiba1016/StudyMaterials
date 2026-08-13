@@ -11,6 +11,8 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unityを、基�
 - 解説ノートと実行可能な使用例は分離します。
 - Unreal Engine固有コードと標準C++の違いを明記します。
 - Unity固有のC#、Engine API、Managed Memory、DOTSの違いを明記します。
+- 高速3D戦闘アクションに必要なCharacter制御、Camera、Target Lock、Combo、Cancel、Dodge、Parry、交代・支援、敵AI、VFX、最適化を汎用技術として扱います。
+- 特定作品のCharacter、Model、Animation、音楽、UI、名称等は複製せず、ゲームシステムの原理とOriginal実装方法を学びます。
 
 ## 分野
 
