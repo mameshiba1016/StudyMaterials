@@ -25,8 +25,12 @@
 19. [`19_3d_character_controller.md`](19_3d_character_controller.md)
 20. [`20_action_camera_and_target_lock.md`](20_action_camera_and_target_lock.md)
 21. [`21_3d_action_combat.md`](21_3d_action_combat.md)
+22. [`22_spatial_partition_and_visibility.md`](22_spatial_partition_and_visibility.md)
+23. [`23_character_switching_and_assists.md`](23_character_switching_and_assists.md)
+24. [`24_combat_presentation.md`](24_combat_presentation.md)
+25. [`25_3d_optimization_and_checklist.md`](25_3d_optimization_and_checklist.md)
 
-今後、Spatial Partition、Character Switching/Assist、Combat Presentation、Optimizationを追加します。
+これで3Dゲーム開発編の初稿は完成です。実装例は後から`90_examples`へ分離して追加します。
 
 ## 数式・擬似APIについて
 
