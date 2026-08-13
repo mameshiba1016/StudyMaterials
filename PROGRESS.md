@@ -49,6 +49,6 @@
 - [x] 2Dゲーム開発（23章の初稿完成）
 - [x] 3Dゲーム開発（25章の初稿完成）
 - [x] ゲームAI（13章の初稿完成）
-- [~] Unreal Engine（25章：Animation Blueprint、Montage、Notify、Motion Warpingまで追加）
+- [~] Unreal Engine（29章：コンボ、ダメージ、回避・パリィ、Hit Stop、交代まで追加）
 - [ ] Unity（Unreal Engine編の後に34章を制作予定）
 - [ ] 対応する実行例
