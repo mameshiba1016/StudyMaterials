@@ -47,7 +47,7 @@
 ## ゲーム分野
 
 - [x] 2Dゲーム開発（23章の初稿完成）
-- [~] 3Dゲーム開発（描画・Lighting・Animation基盤14章完成、続編を執筆中）
+- [~] 3Dゲーム開発（Animation・IK・Collision・Physicsまで18章完成、続編を執筆中）
 - [~] ゲームAI目次
 - [~] Unreal Engine目次
 - [ ] Unity（Unreal Engine編の後に34章を制作予定）

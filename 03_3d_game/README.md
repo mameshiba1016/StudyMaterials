@@ -18,8 +18,12 @@
 12. [`12_post_processing.md`](12_post_processing.md)
 13. [`13_skeletons_and_skinning.md`](13_skeletons_and_skinning.md)
 14. [`14_animation_clips_and_blending.md`](14_animation_clips_and_blending.md)
+15. [`15_animation_state_machines.md`](15_animation_state_machines.md)
+16. [`16_inverse_kinematics.md`](16_inverse_kinematics.md)
+17. [`17_3d_collision_and_queries.md`](17_3d_collision_and_queries.md)
+18. [`18_rigid_body_physics.md`](18_rigid_body_physics.md)
 
-今後、Animation State Machine、IK、Collision、Physics、Spatial Partition、3D Camera、Action Combat、Optimizationを追加します。
+今後、Spatial Partition、3D Character Controller、3D Camera、Action Combat、Optimizationを追加します。
 
 ## 数式・擬似APIについて
 
