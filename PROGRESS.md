@@ -50,4 +50,5 @@
 - [~] 3Dゲーム開発（数学・カメラ・Mesh・Rendering基盤8章完成、続編を執筆中）
 - [~] ゲームAI目次
 - [~] Unreal Engine目次
+- [ ] Unity（Unreal Engine編の後に34章を制作予定）
 - [ ] 対応する実行例

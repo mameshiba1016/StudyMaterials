@@ -28,6 +28,16 @@
 
 標準C++との差を押さえ、Gameplay Framework、Actor、Component、Reflection、GC、Animation、Enhanced Input、AI、GASを学びます。
 
-## Phase 8：就職作品
+## Phase 8：Unity
+
+C#、Managed Memory、Unityの実行順序、GameObjectとComponent、Prefab、Scene、Input System、Physics、Animator、Rendering、ScriptableObject、Addressables、Job System、Burst、ECS/DOTS、Profilerを学び、3D戦闘アクションへ統合します。
+
+Unreal EngineとUnityを表面的なAPI名ではなく、所有権、Object寿命、Reflection、Serialization、Rendering、Animation、並列処理、ビルドの違いから比較します。
+
+## Phase 9：エンジン設計・品質
+
+ECS、Resource管理、Scene、Event、並列処理、デバッグ、テスト、CPU/GPU最適化を横断的に学びます。
+
+## Phase 10：就職作品
 
 オリジナル戦闘アクションを、設計、実装、テスト、計測、技術資料、プレイ動画まで含めて完成させます。

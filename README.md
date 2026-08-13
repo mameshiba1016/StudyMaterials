@@ -10,6 +10,7 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unityを、基�
 - 「動いた」で終わらず、未定義動作、性能、保守性、ゲームでの用途まで扱います。
 - 解説ノートと実行可能な使用例は分離します。
 - Unreal Engine固有コードと標準C++の違いを明記します。
+- Unity固有のC#、Engine API、Managed Memory、DOTSの違いを明記します。
 
 ## 分野
 
@@ -21,6 +22,7 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unityを、基�
 | 03 | `03_3d_game` | 3D数学、カメラ、描画、アニメーション、物理 |
 | 04 | `04_game_ai` | FSM、経路探索、Behavior Tree、Utility AI |
 | 05 | `05_unreal_engine` | Unreal C++、Gameplay Framework、Animation、GAS |
+| 06U | `06_unity` | C#、GameObject、Prefab、Animation、DOTS、Unity製3Dアクション |
 | 06 | `06_engine_architecture` | ECS、リソース、シーン、イベント、並列処理 |
 | 07 | `07_debug_performance` | デバッグ、テスト、CPU/GPU最適化 |
 | 08 | `08_portfolio` | 作品設計、技術資料、面接準備 |
@@ -30,4 +32,4 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unityを、基�
 
 ## 現在の制作段階
 
-教材全体の構造とC++最初の基礎ノートを作成中です。完成済み・未完成を[`PROGRESS.md`](PROGRESS.md)で明示します。
+C++基礎編と2D編の初稿が完成し、現在は3D編を制作中です。完成済み・未完成を[`PROGRESS.md`](PROGRESS.md)で明示します。
