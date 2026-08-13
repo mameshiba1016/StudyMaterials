@@ -16,6 +16,10 @@ UE固有の仕組みは、標準C++の代用品ではありません。標準C++
 8. [ActorとComponentのライフサイクル](08_actor_component_lifecycle.md)
 9. [PawnとCharacterの設計](09_pawn_and_character.md)
 10. [Controller、Possess、操作主体の分離](10_controller_and_possession.md)
+11. [GameMode、GameState、PlayerState](11_game_mode_state_player_state.md)
+12. [GameInstanceとSubsystem](12_game_instance_and_subsystems.md)
+13. [Enhanced Inputの構成と内部の流れ](13_enhanced_input.md)
+14. [高速アクション向け入力バッファとCommand設計](14_action_input_buffer.md)
 
 ## 今後追加する主題
 
