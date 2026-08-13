@@ -19,8 +19,16 @@
 13. [`13_scene_management.md`](13_scene_management.md)
 14. [`14_ui_system.md`](14_ui_system.md)
 15. [`15_audio_system.md`](15_audio_system.md)
+16. [`16_particles_and_game_feel.md`](16_particles_and_game_feel.md)
+17. [`17_action_combat_states.md`](17_action_combat_states.md)
+18. [`18_combos_cancels_and_input_buffer.md`](18_combos_cancels_and_input_buffer.md)
+19. [`19_damage_invincibility_and_knockback.md`](19_damage_invincibility_and_knockback.md)
+20. [`20_enemy_and_boss_design.md`](20_enemy_and_boss_design.md)
+21. [`21_save_data_and_settings.md`](21_save_data_and_settings.md)
+22. [`22_2d_optimization.md`](22_2d_optimization.md)
+23. [`23_completion_checklist.md`](23_completion_checklist.md)
 
-今後、パーティクル、2Dアクション戦闘、敵・ボス、セーブ、最適化を独立ノートとして追加します。
+これで2Dゲーム開発編の初稿は完成です。実装例は`90_examples`へ別々の`.cpp`として追加します。
 
 ## 擬似APIについて
 
