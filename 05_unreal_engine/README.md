@@ -1,5 +1,19 @@
 # 05 Unreal Engine
 
-予定ノート：標準C++との差、Unreal Build Tool、モジュール、Reflection、`UCLASS`・`UPROPERTY`・`UFUNCTION`、GC、Actor、ActorComponent、Pawn、Character、Controller、GameMode、GameState、Enhanced Input、Collision、Animation Blueprint、AI Controller、Behavior Tree、Gameplay Ability System、Replication、Profiling、Packaging。
+この章では、標準C++をUnreal Engine（以下UE）のゲームコードへつなげます。単なるAPI一覧ではなく、エディタ、Unreal Build Tool（UBT）、Unreal Header Tool（UHT）、リフレクション、`UObject`、Actor、Componentなどが裏でどう協力しているかを理解することが目的です。
 
-Unreal Engineのマクロや管理ポインタを、標準C++の所有権モデルと混同しないよう比較して解説します。
+UE固有の仕組みは、標準C++の代用品ではありません。標準C++のコンパイラ、リンカ、所有権、RAIIを土台に、エディタ連携、シリアライズ、GC、ネットワーク複製などを追加した層です。両者を区別して学びます。
+
+## ノート一覧
+
+1. [UE C++の全体像と標準C++との違い](01_ue_cpp_overview.md)
+2. [プロジェクト、モジュール、UBT、UHT](02_project_modules_ubt_uht.md)
+3. [リフレクションと主要マクロ](03_reflection_macros.md)
+4. [`UObject`の寿命、GC、参照方法](04_uobject_lifetime_gc.md)
+5. [UEの命名規則、型、文字列、コンテナ](05_types_strings_containers.md)
+
+## 今後追加する主題
+
+Actor／Component／Pawn／Character、Controller、GameMode系、Subsystem、Enhanced Input、座標とTransform、Collision、Character Movement、カメラとターゲットロック、Animation Blueprint、Montage、Notify、コンボとキャンセル、回避・パリィ、キャラクター交代、AI Controller、Behavior Tree、EQS、Gameplay Ability System、VFX・Niagara、サウンド、UI、SaveGame、非同期ロード、Data Asset、Replication、プロファイリング、最適化、パッケージングを順番に分冊します。
+
+> バージョンでAPIやエディタ画面が変わる部分は、使用中のUEバージョンに対応するEpic Games公式ドキュメントも確認してください。本章では、長期間通用する設計原則と内部構造を中心に説明します。
