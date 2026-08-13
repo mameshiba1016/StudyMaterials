@@ -43,6 +43,11 @@ UE固有の仕組みは、標準C++の代用品ではありません。標準C++
 35. [Gameplay TagとASCの所有設計](35_gameplay_tags_asc.md)
 36. [Attribute SetとGameplay Effect](36_attributes_effects.md)
 37. [Gameplay Ability、Ability Task、Gameplay Cue](37_abilities_tasks_cues.md)
+38. [Niagara VFXと戦闘演出](38_niagara_vfx.md)
+39. [サウンド、ミキシング、戦闘音響](39_audio_system.md)
+40. [UMG UIとイベント駆動HUD](40_umg_ui.md)
+41. [Data Asset、Soft Reference、非同期ロード](41_data_assets_async_loading.md)
+42. [SaveGame、バージョン管理、非同期保存](42_save_game.md)
 
 ## 今後追加する主題
 

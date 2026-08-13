@@ -49,6 +49,6 @@
 - [x] 2Dゲーム開発（23章の初稿完成）
 - [x] 3Dゲーム開発（25章の初稿完成）
 - [x] ゲームAI（13章の初稿完成）
-- [~] Unreal Engine（37章：GAS、Gameplay Tag、Attribute、Effect、Ability Taskまで追加）
+- [~] Unreal Engine（42章：Niagara、Audio、UMG、Asset管理、SaveGameまで追加）
 - [ ] Unity（Unreal Engine編の後に34章を制作予定）
 - [ ] 対応する実行例
