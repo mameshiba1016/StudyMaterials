@@ -14,5 +14,8 @@
 8. [`08_blackboards.md`](08_blackboards.md)
 9. [`09_utility_ai.md`](09_utility_ai.md)
 10. [`10_combat_director_and_group_ai.md`](10_combat_director_and_group_ai.md)
+11. [`11_boss_ai.md`](11_boss_ai.md)
+12. [`12_difficulty_and_fairness.md`](12_difficulty_and_fairness.md)
+13. [`13_ai_performance_debugging_and_checklist.md`](13_ai_performance_debugging_and_checklist.md)
 
-今後、Boss AI、難易度、性能、デバッグを追加します。
+これでゲームAI編の初稿は完成です。実装例は後から`90_examples`へ分離して追加します。
