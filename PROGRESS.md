@@ -49,6 +49,6 @@
 - [x] 2Dゲーム開発（23章の初稿完成）
 - [x] 3Dゲーム開発（25章の初稿完成）
 - [x] ゲームAI（13章の初稿完成）
-- [~] Unreal Engine（14章：Framework状態管理、Subsystem、Enhanced Input、入力Bufferまで追加）
+- [~] Unreal Engine（18章：Transform、Collision、Trace、Chaos物理まで追加）
 - [ ] Unity（Unreal Engine編の後に34章を制作予定）
 - [ ] 対応する実行例
