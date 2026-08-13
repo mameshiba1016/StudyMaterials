@@ -9,12 +9,13 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 3. [GameObject、Component、Transform、Prefab](03_gameobject_component_prefab.md)
 4. [MonoBehaviourのLifecycleと実行順序](04_monobehaviour_lifecycle.md)
 5. [値型、参照型、Managed Memory、GC](05_managed_memory_gc.md)
+6. [UnityEngine.Object・null・Destroy・Serialization](06_unity_object_serialization.md)
+7. [Scene管理・非同期遷移・永続System](07_scene_management.md)
+8. [Prefab・Nested Prefab・Prefab Variant](08_prefab_variants.md)
+9. [New Input System・Action・入力バッファ](09_new_input_system.md)
 
 ## 今後制作するノート
 
-7. Unity Objectのnull・Destroy・Serialization
-8. Scene・Prefab・Prefab Variant
-9. New Input System
 10. Time・FixedUpdate・Coroutine・async
 11. 2D/3D PhysicsとLayer
 12. Character Controller

@@ -76,7 +76,7 @@ vcpkg、Conan、Git submodule、FetchContent、手動vendorなどがあります
 
 ## CI
 
-クリーン環境でconfigure、build、test、静的解析、成果物生成を自動化します。「自分のPCに偶然あるSDK・環境変数・絶対パス」への依存を検出できます。就職作品でも、README記載の一手順でビルドできる状態は大きな品質証拠になります。
+クリーン環境でconfigure、build、test、静的解析、成果物生成を自動化します。「自分のPCに偶然あるSDK・環境変数・絶対パス」への依存を検出できます。学習用プロジェクトでも、README記載の一手順でビルドできる状態は大きな品質証拠になります。
 
 ## Unreal Build Tool
 
