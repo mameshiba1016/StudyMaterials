@@ -2,14 +2,16 @@
 
 Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけでなく、C#の言語仕様、Managed Memory、Unity Objectの特殊な寿命、Serialization、実行順序、Engine内部との境界を理解します。
 
-## 制作予定ノート
+## ノート一覧
 
-1. C#基礎とC++との差
-2. 値型・参照型・Boxing・GC
-3. Assembly、Namespace、asmdef
-4. Unity EditorとProject構造
-5. GameObject・Component・Transform
-6. MonoBehaviourのLifecycleと実行順序
+1. [C#とC++の違い、Unity Scriptの全体像](01_csharp_cpp_unity_overview.md)
+2. [Unity Project、Asset、Package、Assembly](02_project_assets_assemblies.md)
+3. [GameObject、Component、Transform、Prefab](03_gameobject_component_prefab.md)
+4. [MonoBehaviourのLifecycleと実行順序](04_monobehaviour_lifecycle.md)
+5. [値型、参照型、Managed Memory、GC](05_managed_memory_gc.md)
+
+## 今後制作するノート
+
 7. Unity Objectのnull・Destroy・Serialization
 8. Scene・Prefab・Prefab Variant
 9. New Input System
@@ -37,7 +39,7 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 31. Multiplayer基礎
 32. Mobile/Console/PC最適化
 33. Unreal Engineとの比較
-34. Unity就職作品チェックリスト
+34. Unity編・完成確認表
 
 ## 方針
 
