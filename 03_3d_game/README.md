@@ -12,8 +12,14 @@
 6. [`06_meshes_and_vertex_data.md`](06_meshes_and_vertex_data.md)
 7. [`07_gpu_rendering_pipeline.md`](07_gpu_rendering_pipeline.md)
 8. [`08_shaders_and_materials.md`](08_shaders_and_materials.md)
+9. [`09_textures_and_sampling.md`](09_textures_and_sampling.md)
+10. [`10_lighting.md`](10_lighting.md)
+11. [`11_shadows.md`](11_shadows.md)
+12. [`12_post_processing.md`](12_post_processing.md)
+13. [`13_skeletons_and_skinning.md`](13_skeletons_and_skinning.md)
+14. [`14_animation_clips_and_blending.md`](14_animation_clips_and_blending.md)
 
-今後、Lighting、Shadow、Texture、Animation、Collision、Physics、Spatial Partition、3D Camera、Action Combat、Optimizationを追加します。
+今後、Animation State Machine、IK、Collision、Physics、Spatial Partition、3D Camera、Action Combat、Optimizationを追加します。
 
 ## 数式・擬似APIについて
 
