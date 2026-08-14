@@ -18,10 +18,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 12. [Character Controller・Character Motor・移動設計](12_character_controller_motor.md)
 13. [Animator・Animation Event・Avatar・Root Motion](13_animator_animation_root_motion.md)
 14. [Cinemachine・Camera・Lock-on・Camera Collision](14_cinemachine_camera_lockon.md)
+15. [Render Pipeline・URP/HDRP・Shader Graph・Material](15_render_pipeline_shader_graph_material.md)
 
 ## 今後制作するノート
 
-15. URP/HDRP・Shader Graph・Material
 16. Lighting・Shadow・Post Processing
 17. ScriptableObjectとデータ駆動設計
 18. UI Toolkit・uGUI・Text
