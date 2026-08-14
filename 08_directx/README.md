@@ -48,10 +48,10 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 5. [Swap Chain・RTV・Present](37_directx12_swap_chain_rtv_present.md)
 6. [Descriptor Heap・Handle・Allocator](38_directx12_descriptor_heap_handle_allocator.md)
 7. [Root Signature・Resource Binding](39_directx12_root_signature_resource_binding.md)
+8. [Pipeline State Object・Shader](40_directx12_pso_shader.md)
 
 ## 今後制作するDirectX 12ノート
 
-8. Pipeline State Object・Shader
 9. Resource・Heap・Upload
 10. Resource Barrier・State Tracking
 11. Texture・Mip・Copy
