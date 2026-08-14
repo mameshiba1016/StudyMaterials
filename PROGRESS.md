@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [ ] DirectX（DXライブラリ編の後にDirectX 11→12の順で制作予定）
+- [~] DirectX（DirectX 11第1章：全体像・Win32・COM・描画Pipelineまで追加）
 - [ ] 対応する実行例
