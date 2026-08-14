@@ -41,6 +41,28 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 
 ## DirectX 12編予定
 
-Device、Command Queue、Command Allocator、Command List、Descriptor Heap、Root Signature、Pipeline State Object、Resource Barrier、Upload、Fence、Frame Resource、Async Compute、GPU Memory、Renderer統合の順に進みます。
+1. [DirectX 11との違い・明示的API・全体構造](33_directx12_overview_explicit_api.md)
+
+## 今後制作するDirectX 12ノート
+
+2. Windows SDK・Debug Layer・Factory・Adapter・Device
+3. Command Queue・Allocator・Command List
+4. Fence・Event・Frame Resource
+5. Swap Chain・RTV・Present
+6. Descriptor Heap・Handle・Allocator
+7. Root Signature・Resource Binding
+8. Pipeline State Object・Shader
+9. Resource・Heap・Upload
+10. Resource Barrier・State Tracking
+11. Texture・Mip・Copy
+12. Depth・Blend・Rasterizer
+13. Model・Material・Animation
+14. Compute・UAV・Indirect
+15. Multithread Command Recording
+16. Multiple Queue・Async Compute
+17. GPU Memory・Transient Resource
+18. Device Removed・DRED・PIX
+19. Frame Graph統合
+20. DirectX 12総合3D戦闘描画
 
 DirectX 11で各Pipeline StageとResource Bindingを可視化してからDirectX 12へ進むことで、「何を明示的に管理するようになったか」を比較できます。
