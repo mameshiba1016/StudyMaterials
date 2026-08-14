@@ -30,10 +30,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 24. [Action Camera・Target Lock](24_action_camera_target_lock.md)
 25. [Combat State・入力Buffer](25_combat_state_input_buffer.md)
 26. [Combo・Cancel](26_combo_cancel.md)
+27. [Dodge・Guard・Parry](27_dodge_guard_parry.md)
 
 ## 今後制作するノート
 
-27. Dodge・Guard・Parry
 28. Hit・Damage・Reaction
 29. Hit Stop・VFX・Audio演出
 30. Enemy AI・Navigation
