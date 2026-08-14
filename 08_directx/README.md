@@ -52,10 +52,10 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 9. [Resource・Heap・Upload](41_directx12_resource_heap_upload.md)
 10. [Resource Barrier・State Tracking](42_directx12_resource_barrier_state_tracking.md)
 11. [Texture・Mip・Copy](43_directx12_texture_mip_copy.md)
+12. [Depth・Blend・Rasterizer](44_directx12_depth_blend_rasterizer.md)
 
 ## 今後制作するDirectX 12ノート
 
-12. Depth・Blend・Rasterizer
 13. Model・Material・Animation
 14. Compute・UAV・Indirect
 15. Multithread Command Recording
