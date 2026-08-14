@@ -51,6 +51,6 @@
 - [x] ゲームAI（13章の初稿完成）
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
-- [~] DXライブラリ（第25章：Combat State・入力Bufferまで追加）
+- [~] DXライブラリ（第26章：Combo・Cancelまで追加）
 - [ ] DirectX（DXライブラリ編の後にDirectX 11→12の順で制作予定）
 - [ ] 対応する実行例
