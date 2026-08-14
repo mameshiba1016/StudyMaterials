@@ -50,7 +50,7 @@
 - [x] 3Dゲーム開発（25章の初稿完成）
 - [x] ゲームAI（13章の初稿完成）
 - [x] Unreal Engine（49章の初稿完成）
-- [~] Unity（基礎25章：C#からECS・DOTS・Baking・System・Component Dataまで追加）
+- [~] Unity（基礎26章：C#からEditor拡張・Property Drawer・Tool制作まで追加）
 - [ ] DXライブラリ（Unity編の後に制作予定）
 - [ ] DirectX（DXライブラリ編の後にDirectX 11→12の順で制作予定）
 - [ ] 対応する実行例
