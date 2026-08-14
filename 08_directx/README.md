@@ -8,10 +8,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 2. [Visual Studio・Windows SDK・Project設定](02_visual_studio_windows_sdk_project.md)
 3. [Win32 Window・Message Loop](03_win32_window_message_loop.md)
 4. [HRESULT・COM・ComPtr・Debug Layer](04_hresult_com_comptr_debug_layer.md)
+5. [DXGI Factory・Adapter・Output](05_dxgi_factory_adapter_output.md)
 
 ## 今後制作するDirectX 11ノート
 
-5. DXGI Factory・Adapter・Output
 6. Device・Feature Level・Device Context
 7. Swap Chain・Flip Model・Present
 8. Back Buffer・Render Target View
