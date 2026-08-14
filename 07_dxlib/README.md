@@ -23,10 +23,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 17. [3D Collision・Physics設計](17_3d_collision_physics_design.md)
 18. [Lighting・Shadow](18_lighting_shadow.md)
 19. [Shader・Constant・Render State](19_shader_constant_render_state.md)
+20. [UI・HUD・Font](20_ui_hud_font.md)
 
 ## 今後制作するノート
 
-20. UI・HUD・Font
 21. Save・Settings・File I/O
 22. Profiler・Memory・最適化
 23. Character Controller
