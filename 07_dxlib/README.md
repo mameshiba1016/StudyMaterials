@@ -38,9 +38,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 32. [Boss・Phase・部位](32_boss_phase_parts.md)
 33. [Character交代・Support](33_character_switch_support.md)
 34. [3D戦闘Action統合](34_3d_combat_action_integration.md)
+35. [Architecture・Test・完成確認表](35_architecture_test_completion_checklist.md)
 
-## 今後制作するノート
+## DXライブラリ編の次
 
-35. Architecture・Test・完成確認表
+全35章の基礎ノートは完了です。次はDirectX 11、DirectX 12の順で、DXライブラリが抽象化していた低レベル処理を学びます。その後、各項目に対応する独立した実行例を追加します。
 
 DXライブラリのGlobal関数を各所へ直書きせず、Application、Scene、Renderer、Input、Resource、Combatといった責任へ分離し、後のDirectX学習につながる構造を作ります。
