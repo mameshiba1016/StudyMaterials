@@ -36,10 +36,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 30. [敵AI・NavMesh・Boss設計](30_enemy_ai_navmesh_boss.md)
 31. [Multiplayer基礎・同期・予測・権限設計](31_multiplayer_fundamentals.md)
 32. [Mobile・Console・PC最適化](32_mobile_console_pc_optimization.md)
+33. [UnityとUnreal Engineの対応関係・設計比較](33_unity_unreal_engine_comparison.md)
 
 ## 今後制作するノート
 
-33. Unreal Engineとの比較
 34. Unity編・完成確認表
 
 ## 方針
