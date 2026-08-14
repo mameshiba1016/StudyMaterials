@@ -19,10 +19,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 13. [Index Buffer・Primitive Topology](13_index_buffer_primitive_topology.md)
 14. [Constant Buffer・Alignment・更新](14_constant_buffer_alignment_update.md)
 15. [Texture・WIC・Shader Resource View](15_texture_wic_shader_resource_view.md)
+16. [Sampler・UV・Mip Map](16_sampler_uv_mipmap.md)
 
 ## 今後制作するDirectX 11ノート
 
-16. Sampler・UV・Mip Map
 17. Rasterizer・Cull・Scissor
 18. Blend・Alpha・Render Target
 19. Depth Stencil State
