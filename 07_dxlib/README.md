@@ -33,10 +33,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 27. [Dodge・Guard・Parry](27_dodge_guard_parry.md)
 28. [Hit・Damage・Reaction](28_hit_damage_reaction.md)
 29. [Hit Stop・VFX・Audio演出](29_hit_stop_vfx_audio.md)
+30. [Enemy AI・Navigation](30_enemy_ai_navigation.md)
 
 ## 今後制作するノート
 
-30. Enemy AI・Navigation
 31. Combat Director・複数敵
 32. Boss・Phase・部位
 33. Character交代・Support
