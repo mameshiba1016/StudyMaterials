@@ -60,9 +60,8 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 17. [GPU Memory・Transient Resource](49_directx12_gpu_memory_transient_resource.md)
 18. [Device Removed・DRED・PIX](50_directx12_device_removed_dred_pix.md)
 19. [Frame Graph統合](51_directx12_frame_graph_integration.md)
+20. [DirectX 12総合3D戦闘描画](52_directx12_integrated_3d_action_rendering.md)
 
-## 今後制作するDirectX 12ノート
-
-20. DirectX 12総合3D戦闘描画
+DirectX 12編は全20章を追加済みです。第20章で初期化、Asset、Character、Animation、Compute、描画Pass、Multiple Queue、Memory、Frame Graph、診断を高速3D戦闘Sceneの一Frameへ統合して復習できます。
 
 DirectX 11で各Pipeline StageとResource Bindingを可視化してからDirectX 12へ進むことで、「何を明示的に管理するようになったか」を比較できます。

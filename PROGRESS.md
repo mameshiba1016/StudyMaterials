@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [~] DirectX（DirectX 11編全32章、DirectX 12第19章：Frame Graph統合まで追加）
+- [x] DirectX（DirectX 11編全32章、DirectX 12編全20章の初稿完成）
 - [ ] 対応する実行可能な実習編（全知識ノート完成後、各項目へ`.h`／`.cpp`／Project／Build手順／Testを一つずつ追加）
