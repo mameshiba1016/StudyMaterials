@@ -30,10 +30,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 24. [Job System・NativeContainer・Burst](24_job_system_nativecontainer_burst.md)
 25. [ECS・DOTS・Baking・System・Component Data](25_ecs_dots_baking_system_component_data.md)
 26. [Editor拡張・Property Drawer・Tool制作](26_editor_extension_property_drawer_tools.md)
+27. [Test Framework・CI・Build](27_test_framework_ci_build.md)
 
 ## 今後制作するノート
 
-27. Test Framework・CI・Build
 28. Assembly Definitionと依存設計
 29. 3Dアクション戦闘
 30. 敵AI・NavMesh・Boss
