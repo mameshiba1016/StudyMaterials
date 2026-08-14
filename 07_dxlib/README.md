@@ -24,10 +24,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 18. [Lighting・Shadow](18_lighting_shadow.md)
 19. [Shader・Constant・Render State](19_shader_constant_render_state.md)
 20. [UI・HUD・Font](20_ui_hud_font.md)
+21. [Save・Settings・File I/O](21_save_settings_file_io.md)
 
 ## 今後制作するノート
 
-21. Save・Settings・File I/O
 22. Profiler・Memory・最適化
 23. Character Controller
 24. Action Camera・Target Lock
