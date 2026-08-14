@@ -15,10 +15,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 9. [2D Collision・Spatial Query](09_2d_collision_spatial_query.md)
 10. [Scene・Application State](10_scene_application_state.md)
 11. [Resource Cache・RAII](11_resource_cache_raii.md)
+12. [Debug Log・Gizmo・Error処理](12_debug_log_gizmo_error_handling.md)
 
 ## 今後制作するノート
 
-12. Debug Log・Gizmo・Error処理
 13. 3D数学・座標・行列
 14. 3D Camera・Projection
 15. MV1 Model・Material

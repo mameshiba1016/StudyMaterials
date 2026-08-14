@@ -51,6 +51,6 @@
 - [x] ゲームAI（13章の初稿完成）
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
-- [~] DXライブラリ（第11章：Resource Cache・RAIIまで追加）
+- [~] DXライブラリ（第12章：Debug Log・Gizmo・Error処理まで追加）
 - [ ] DirectX（DXライブラリ編の後にDirectX 11→12の順で制作予定）
 - [ ] 対応する実行例
