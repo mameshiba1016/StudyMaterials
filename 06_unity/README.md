@@ -33,10 +33,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 27. [Test Framework・CI・Build](27_test_framework_ci_build.md)
 28. [Assembly Definition・依存設計](28_assembly_definition_dependency_design.md)
 29. [3Dアクション戦闘システム](29_3d_action_combat.md)
+30. [敵AI・NavMesh・Boss設計](30_enemy_ai_navmesh_boss.md)
 
 ## 今後制作するノート
 
-30. 敵AI・NavMesh・Boss
 31. Multiplayer基礎
 32. Mobile/Console/PC最適化
 33. Unreal Engineとの比較
