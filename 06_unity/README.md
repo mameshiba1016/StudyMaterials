@@ -23,10 +23,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 17. [ScriptableObject・データ駆動設計・Asset検証](17_scriptableobject_data_driven_design.md)
 18. [UI Toolkit・uGUI・Text・戦闘HUD](18_ui_toolkit_ugui_text_hud.md)
 19. [Audio・AudioMixer・Particle System・VFX Graph](19_audio_particle_vfx_graph.md)
+20. [Addressables・AssetBundle・非同期ロード・メモリ管理](20_addressables_assetbundle_async_loading.md)
 
 ## 今後制作するノート
 
-20. Addressables・AssetBundle・非同期ロード
 21. Save・Settings・Localization
 22. Object PoolとGC Allocation削減
 23. Profiler・Frame Debugger・Memory Profiler
