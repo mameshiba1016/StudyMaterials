@@ -16,10 +16,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 10. [Time・Update・FixedUpdate・Coroutine・async/await](10_time_fixedupdate_coroutine_async.md)
 11. [2D/3D Physics・Collider・Layer・戦闘判定](11_physics_2d_3d_layers.md)
 12. [Character Controller・Character Motor・移動設計](12_character_controller_motor.md)
+13. [Animator・Animation Event・Avatar・Root Motion](13_animator_animation_root_motion.md)
 
 ## 今後制作するノート
 
-13. Animator・Animation Event・Root Motion
 14. CinemachineとCamera
 15. URP/HDRP・Shader Graph・Material
 16. Lighting・Shadow・Post Processing
