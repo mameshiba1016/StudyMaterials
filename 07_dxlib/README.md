@@ -28,10 +28,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 22. [Profiler・Memory・最適化](22_profiler_memory_optimization.md)
 23. [Character Controller](23_character_controller.md)
 24. [Action Camera・Target Lock](24_action_camera_target_lock.md)
+25. [Combat State・入力Buffer](25_combat_state_input_buffer.md)
 
 ## 今後制作するノート
 
-25. Combat State・入力Buffer
 26. Combo・Cancel
 27. Dodge・Guard・Parry
 28. Hit・Damage・Reaction
