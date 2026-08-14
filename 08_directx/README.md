@@ -56,10 +56,10 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 13. [Model・Material・Animation](45_directx12_model_material_animation.md)
 14. [Compute・UAV・Indirect](46_directx12_compute_uav_indirect.md)
 15. [Multithread Command Recording](47_directx12_multithread_command_recording.md)
+16. [Multiple Queue・Async Compute](48_directx12_multiple_queue_async_compute.md)
 
 ## 今後制作するDirectX 12ノート
 
-16. Multiple Queue・Async Compute
 17. GPU Memory・Transient Resource
 18. Device Removed・DRED・PIX
 19. Frame Graph統合
