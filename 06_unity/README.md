@@ -25,10 +25,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 19. [Audio・AudioMixer・Particle System・VFX Graph](19_audio_particle_vfx_graph.md)
 20. [Addressables・AssetBundle・非同期ロード・メモリ管理](20_addressables_assetbundle_async_loading.md)
 21. [Save・Settings・Localization](21_save_settings_localization.md)
+22. [Object Pool・GC Allocation削減](22_object_pool_gc_allocation.md)
 
 ## 今後制作するノート
 
-22. Object PoolとGC Allocation削減
 23. Profiler・Frame Debugger・Memory Profiler
 24. Job System・NativeContainer・Burst
 25. ECS/DOTS・Baking・System・Component Data
