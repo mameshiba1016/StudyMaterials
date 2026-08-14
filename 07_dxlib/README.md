@@ -19,10 +19,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 13. [3D数学・座標・行列](13_3d_math_coordinates_matrices.md)
 14. [3D Camera・Projection](14_3d_camera_projection.md)
 15. [MV1 Model・Material](15_mv1_model_material.md)
+16. [MV1 Animation・Blend](16_mv1_animation_blend.md)
 
 ## 今後制作するノート
 
-16. MV1 Animation・Blend
 17. 3D Collision・Physics設計
 18. Lighting・Shadow
 19. Shader・Constant・Render State
