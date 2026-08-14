@@ -20,10 +20,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 14. [Cinemachine・Camera・Lock-on・Camera Collision](14_cinemachine_camera_lockon.md)
 15. [Render Pipeline・URP/HDRP・Shader Graph・Material](15_render_pipeline_shader_graph_material.md)
 16. [Lighting・Shadow・Probe・Post Processing](16_lighting_shadow_post_processing.md)
+17. [ScriptableObject・データ駆動設計・Asset検証](17_scriptableobject_data_driven_design.md)
 
 ## 今後制作するノート
 
-17. ScriptableObjectとデータ駆動設計
 18. UI Toolkit・uGUI・Text
 19. Audio・VFX Graph・Particle System
 20. Addressables・AssetBundle・非同期ロード
