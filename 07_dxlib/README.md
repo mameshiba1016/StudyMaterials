@@ -9,10 +9,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 3. [Delta Time・Fixed Step・Frame制御](03_delta_time_fixed_step_frame_control.md)
 4. [Keyboard・Mouse・Gamepad・Action Mapping](04_keyboard_mouse_gamepad.md)
 5. [2D座標・図形・文字描画](05_2d_coordinates_shapes_text.md)
+6. [Texture・Handle・2D Sprite](06_texture_handle_2d_sprite.md)
 
 ## 今後制作するノート
 
-6. Texture・Handle・2D Sprite
 7. Blend・Alpha・Render Target
 8. Sound・Music・Voice管理
 9. 2D Collision・Spatial Query
