@@ -32,10 +32,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 26. [Instancing・Batch・Culling](26_instancing_batch_culling.md)
 27. [Compute Shader・UAV](27_compute_shader_uav.md)
 28. [Multithread・Deferred Context](28_multithread_deferred_context.md)
+29. [Device Lost・Resize・Fullscreen](29_device_lost_resize_fullscreen.md)
 
 ## 今後制作するDirectX 11ノート
 
-29. Device Lost・Resize・Fullscreen
 30. GPU Debug・PIX・Profiler
 31. Renderer Architecture・Frame Graph
 32. DirectX 11総合3D戦闘描画
