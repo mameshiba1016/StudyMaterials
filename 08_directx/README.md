@@ -35,13 +35,12 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 29. [Device Lost・Resize・Fullscreen](29_device_lost_resize_fullscreen.md)
 30. [GPU Debug・PIX・Profiler](30_gpu_debug_pix_profiler.md)
 31. [Renderer Architecture・Frame Graph](31_renderer_architecture_frame_graph.md)
+32. [DirectX 11総合3D戦闘描画](32_directx11_integrated_3d_action_rendering.md)
 
-## 今後制作するDirectX 11ノート
-
-32. DirectX 11総合3D戦闘描画
+DirectX 11編は全32章を追加済みです。個別APIを暗記するだけでなく、第32章で高速3D戦闘Sceneの一Frameへ統合して復習できます。
 
 ## DirectX 12編予定
 
-DirectX 11編の後、Device、Command Queue、Command Allocator、Command List、Descriptor Heap、Root Signature、Pipeline State Object、Resource Barrier、Upload、Fence、Frame Resource、Async Compute、GPU Memory、Renderer統合の順に進みます。
+Device、Command Queue、Command Allocator、Command List、Descriptor Heap、Root Signature、Pipeline State Object、Resource Barrier、Upload、Fence、Frame Resource、Async Compute、GPU Memory、Renderer統合の順に進みます。
 
 DirectX 11で各Pipeline StageとResource Bindingを可視化してからDirectX 12へ進むことで、「何を明示的に管理するようになったか」を比較できます。
