@@ -5,10 +5,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 ## DirectX 11編
 
 1. [全体像・Win32・COM・描画Pipeline](01_directx11_overview_win32_com_pipeline.md)
+2. [Visual Studio・Windows SDK・Project設定](02_visual_studio_windows_sdk_project.md)
 
 ## 今後制作するDirectX 11ノート
 
-2. Visual Studio・Windows SDK・Project設定
 3. Win32 Window・Message Loop
 4. HRESULT・COM・ComPtr・Debug Layer
 5. DXGI Factory・Adapter・Output
