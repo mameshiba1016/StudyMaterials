@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [~] DirectX（DirectX 11第23章：Model・Mesh・Animationまで追加）
+- [~] DirectX（DirectX 11第24章：Shadow Mappingまで追加）
 - [ ] 対応する実行例
