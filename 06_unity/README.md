@@ -37,10 +37,11 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 31. [Multiplayer基礎・同期・予測・権限設計](31_multiplayer_fundamentals.md)
 32. [Mobile・Console・PC最適化](32_mobile_console_pc_optimization.md)
 33. [UnityとUnreal Engineの対応関係・設計比較](33_unity_unreal_engine_comparison.md)
+34. [Unity編・完成確認表](34_completion_checklist.md)
 
-## 今後制作するノート
+## 初稿完成
 
-34. Unity編・完成確認表
+Unity編は全34章の初稿が完成しています。各章の概念を確認した後は、第34章の説明・実装・診断チェックを使い、必要な章へ戻って反復してください。独立した実行例は後から`90_examples`へ追加します。
 
 ## 方針
 
