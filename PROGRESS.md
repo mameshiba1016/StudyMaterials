@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [~] DirectX（DirectX 11第6章：Device・Feature Level・Device Contextまで追加）
+- [~] DirectX（DirectX 11第7章：Swap Chain・Flip Model・Presentまで追加）
 - [ ] 対応する実行例

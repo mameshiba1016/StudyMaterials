@@ -10,10 +10,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 4. [HRESULT・COM・ComPtr・Debug Layer](04_hresult_com_comptr_debug_layer.md)
 5. [DXGI Factory・Adapter・Output](05_dxgi_factory_adapter_output.md)
 6. [Device・Feature Level・Device Context](06_device_feature_level_context.md)
+7. [Swap Chain・Flip Model・Present](07_swap_chain_flip_model_present.md)
 
 ## 今後制作するDirectX 11ノート
 
-7. Swap Chain・Flip Model・Present
 8. Back Buffer・Render Target View
 9. Depth Stencil・Viewport・Resize
 10. HLSL・Shader Compile・Reflection
