@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [~] DirectX（DirectX 11第13章：Index Buffer・Primitive Topologyまで追加）
+- [~] DirectX（DirectX 11第14章：Constant Buffer・Alignment・更新まで追加）
 - [ ] 対応する実行例
