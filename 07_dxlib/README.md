@@ -1,7 +1,46 @@
 # 07 DXライブラリ
 
-Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合する章です。
+Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合する章です。DXライブラリの簡潔なAPIを使いつつ、その下にあるWindows message pump、resource handle、back buffer、GPU pipelineを意識し、次のDirectX編へ接続します。
 
-予定内容：導入と文字コード、初期化と終了、Game Loop、Delta Time、Keyboard／Mouse／Gamepad、2D描画、Texture、Sound、2D Collision、Scene管理、Resource Cache、3D座標、Camera、Model、MV1 Animation、3D Collision、Lighting、Shader、UI、Save、Debug描画、最適化、Character Controller、Target Lock、Combo／Cancel、Dodge／Parry、Enemy AI、Boss、Character交代、3D戦闘アクション統合。
+## ノート一覧
+
+1. [DXライブラリの全体像・初期化・Game Loop](01_overview_initialization_game_loop.md)
+
+## 今後制作するノート
+
+2. Project設定・文字コード・Path
+3. Delta Time・Fixed Step・Frame制御
+4. Keyboard・Mouse・Gamepad
+5. 2D座標・図形・文字描画
+6. Texture・Handle・2D Sprite
+7. Blend・Alpha・Render Target
+8. Sound・Music・Voice管理
+9. 2D Collision・Spatial Query
+10. Scene・Application State
+11. Resource Cache・RAII
+12. Debug Log・Gizmo・Error処理
+13. 3D数学・座標・行列
+14. 3D Camera・Projection
+15. MV1 Model・Material
+16. MV1 Animation・Blend
+17. 3D Collision・Physics設計
+18. Lighting・Shadow
+19. Shader・Constant・Render State
+20. UI・HUD・Font
+21. Save・Settings・File I/O
+22. Profiler・Memory・最適化
+23. Character Controller
+24. Action Camera・Target Lock
+25. Combat State・入力Buffer
+26. Combo・Cancel
+27. Dodge・Guard・Parry
+28. Hit・Damage・Reaction
+29. Hit Stop・VFX・Audio演出
+30. Enemy AI・Navigation
+31. Combat Director・複数敵
+32. Boss・Phase・部位
+33. Character交代・Support
+34. 3D戦闘Action統合
+35. Architecture・Test・完成確認表
 
 DXライブラリのGlobal関数を各所へ直書きせず、Application、Scene、Renderer、Input、Resource、Combatといった責任へ分離し、後のDirectX学習につながる構造を作ります。
