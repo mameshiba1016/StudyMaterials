@@ -36,10 +36,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 30. [Enemy AI・Navigation](30_enemy_ai_navigation.md)
 31. [Combat Director・複数敵](31_combat_director_multiple_enemies.md)
 32. [Boss・Phase・部位](32_boss_phase_parts.md)
+33. [Character交代・Support](33_character_switch_support.md)
 
 ## 今後制作するノート
 
-33. Character交代・Support
 34. 3D戦闘Action統合
 35. Architecture・Test・完成確認表
 
