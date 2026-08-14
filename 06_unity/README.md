@@ -26,10 +26,10 @@ Unreal Engine編の後に学ぶUnity教材です。Unityの操作手順だけで
 20. [Addressables・AssetBundle・非同期ロード・メモリ管理](20_addressables_assetbundle_async_loading.md)
 21. [Save・Settings・Localization](21_save_settings_localization.md)
 22. [Object Pool・GC Allocation削減](22_object_pool_gc_allocation.md)
+23. [Profiler・Frame Debugger・Memory Profiler](23_profiler_frame_debugger_memory_profiler.md)
 
 ## 今後制作するノート
 
-23. Profiler・Frame Debugger・Memory Profiler
 24. Job System・NativeContainer・Burst
 25. ECS/DOTS・Baking・System・Component Data
 26. Editor拡張・Property Drawer・Tool制作
