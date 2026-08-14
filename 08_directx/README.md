@@ -12,10 +12,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 6. [Device・Feature Level・Device Context](06_device_feature_level_context.md)
 7. [Swap Chain・Flip Model・Present](07_swap_chain_flip_model_present.md)
 8. [Back Buffer・Render Target View](08_back_buffer_render_target_view.md)
+9. [Depth Stencil・Viewport・Resize](09_depth_stencil_viewport_resize.md)
 
 ## 今後制作するDirectX 11ノート
 
-9. Depth Stencil・Viewport・Resize
 10. HLSL・Shader Compile・Reflection
 11. Vertex Shader・Pixel Shader
 12. Vertex Buffer・Input Layout

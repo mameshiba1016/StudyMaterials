@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [~] DirectX（DirectX 11第8章：Back Buffer・Render Target Viewまで追加）
+- [~] DirectX（DirectX 11第9章：Depth Stencil・Viewport・Resizeまで追加）
 - [ ] 対応する実行例
