@@ -37,10 +37,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 31. [Combat Director・複数敵](31_combat_director_multiple_enemies.md)
 32. [Boss・Phase・部位](32_boss_phase_parts.md)
 33. [Character交代・Support](33_character_switch_support.md)
+34. [3D戦闘Action統合](34_3d_combat_action_integration.md)
 
 ## 今後制作するノート
 
-34. 3D戦闘Action統合
 35. Architecture・Test・完成確認表
 
 DXライブラリのGlobal関数を各所へ直書きせず、Application、Scene、Renderer、Input、Resource、Combatといった責任へ分離し、後のDirectX学習につながる構造を作ります。
