@@ -16,10 +16,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 10. [HLSL・Shader Compile・Reflection](10_hlsl_shader_compile_reflection.md)
 11. [Vertex Shader・Pixel Shader](11_vertex_shader_pixel_shader.md)
 12. [Vertex Buffer・Input Layout](12_vertex_buffer_input_layout.md)
+13. [Index Buffer・Primitive Topology](13_index_buffer_primitive_topology.md)
 
 ## 今後制作するDirectX 11ノート
 
-13. Index Buffer・Primitive Topology
 14. Constant Buffer・Alignment・更新
 15. Texture・WIC・Shader Resource View
 16. Sampler・UV・Mip Map
