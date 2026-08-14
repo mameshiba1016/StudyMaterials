@@ -14,10 +14,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 8. [Back Buffer・Render Target View](08_back_buffer_render_target_view.md)
 9. [Depth Stencil・Viewport・Resize](09_depth_stencil_viewport_resize.md)
 10. [HLSL・Shader Compile・Reflection](10_hlsl_shader_compile_reflection.md)
+11. [Vertex Shader・Pixel Shader](11_vertex_shader_pixel_shader.md)
 
 ## 今後制作するDirectX 11ノート
 
-11. Vertex Shader・Pixel Shader
 12. Vertex Buffer・Input Layout
 13. Index Buffer・Primitive Topology
 14. Constant Buffer・Alignment・更新
