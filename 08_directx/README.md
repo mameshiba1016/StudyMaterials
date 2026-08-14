@@ -58,10 +58,10 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 15. [Multithread Command Recording](47_directx12_multithread_command_recording.md)
 16. [Multiple Queue・Async Compute](48_directx12_multiple_queue_async_compute.md)
 17. [GPU Memory・Transient Resource](49_directx12_gpu_memory_transient_resource.md)
+18. [Device Removed・DRED・PIX](50_directx12_device_removed_dred_pix.md)
 
 ## 今後制作するDirectX 12ノート
 
-18. Device Removed・DRED・PIX
 19. Frame Graph統合
 20. DirectX 12総合3D戦闘描画
 
