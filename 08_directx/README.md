@@ -28,10 +28,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 22. [Lighting・Normal・Material](22_lighting_normal_material.md)
 23. [Model・Mesh・Animation](23_model_mesh_animation.md)
 24. [Shadow Mapping](24_shadow_mapping.md)
+25. [Render to Texture・Post Process](25_render_to_texture_post_process.md)
 
 ## 今後制作するDirectX 11ノート
 
-25. Render to Texture・Post Process
 26. Instancing・Batch・Culling
 27. Compute Shader・UAV
 28. Multithread・Deferred Context
