@@ -11,10 +11,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 5. [2D座標・図形・文字描画](05_2d_coordinates_shapes_text.md)
 6. [Texture・Handle・2D Sprite](06_texture_handle_2d_sprite.md)
 7. [Blend・Alpha・Render Target](07_blend_alpha_render_target.md)
+8. [Sound・Music・Voice管理](08_sound_music_voice_management.md)
 
 ## 今後制作するノート
 
-8. Sound・Music・Voice管理
 9. 2D Collision・Spatial Query
 10. Scene・Application State
 11. Resource Cache・RAII
