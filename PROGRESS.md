@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [~] DirectX（DirectX 11編全32章、DirectX 12第9章：Resource・Heap・Uploadまで追加）
+- [~] DirectX（DirectX 11編全32章、DirectX 12第10章：Resource Barrier・State Trackingまで追加）
 - [ ] 対応する実行可能な実習編（全知識ノート完成後、各項目へ`.h`／`.cpp`／Project／Build手順／Testを一つずつ追加）
