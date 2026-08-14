@@ -43,10 +43,10 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 
 1. [DirectX 11との違い・明示的API・全体構造](33_directx12_overview_explicit_api.md)
 2. [Windows SDK・Debug Layer・Factory・Adapter・Device](34_directx12_sdk_debug_factory_adapter_device.md)
+3. [Command Queue・Allocator・Command List](35_directx12_command_queue_allocator_list.md)
 
 ## 今後制作するDirectX 12ノート
 
-3. Command Queue・Allocator・Command List
 4. Fence・Event・Frame Resource
 5. Swap Chain・RTV・Present
 6. Descriptor Heap・Handle・Allocator

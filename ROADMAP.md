@@ -45,3 +45,9 @@ WindowsとCOM、Device／Context、Swap Chain、Buffer、Texture、Pipeline Stat
 ## Phase 11：エンジン設計・品質
 
 ECS、Resource管理、Scene、Event、並列処理、デバッグ、テスト、CPU/GPU最適化を横断的に学びます。
+
+## Phase 12：実行可能な実習編
+
+全知識ノートの整備後、C++、2D、3D、AI、Unreal Engine、Unity、DXライブラリ、DirectX 11／12、Engine設計、Debug／性能の各項目へ、独立してBuild・実行できるSampleを一つずつ追加します。
+
+標準C++ Sampleは`.h`／`.cpp`、CMake、Testを含む構成を基本とします。Engine固有SampleはProject Version、必要Package、Scene作成、Editor操作、Build、実行結果まで記録し、READMEだけを読めば再現できる状態を完成条件とします。

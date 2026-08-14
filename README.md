@@ -35,4 +35,4 @@ C++、2Dゲーム、3Dゲーム、ゲームAI、Unreal Engine、Unity、DXライ
 
 ## 現在の制作段階
 
-C++基礎編、2D編、3D編、ゲームAI編、Unreal Engine編、Unity編、DXライブラリ編の初稿が完成し、現在はDirectX 11編を制作しています。完成済み・未完成を[`PROGRESS.md`](PROGRESS.md)で明示します。
+C++基礎編、2D編、3D編、ゲームAI編、Unreal Engine編、Unity編、DXライブラリ編、DirectX 11編の初稿が完成し、現在はDirectX 12編を制作しています。全知識ノートの完成後、各項目をそのままBuild・実行できる実習編を[`90_examples`](90_examples/README.md)へ一つずつ追加します。完成済み・未完成を[`PROGRESS.md`](PROGRESS.md)で明示します。
