@@ -51,6 +51,6 @@
 - [x] ゲームAI（13章の初稿完成）
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
-- [~] DXライブラリ（第2章：Project設定・文字コード・Pathまで追加）
+- [~] DXライブラリ（第3章：Delta Time・Fixed Step・Frame制御まで追加）
 - [ ] DirectX（DXライブラリ編の後にDirectX 11→12の順で制作予定）
 - [ ] 対応する実行例

@@ -6,10 +6,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 
 1. [DXライブラリの全体像・初期化・Game Loop](01_overview_initialization_game_loop.md)
 2. [Project設定・文字コード・Path](02_project_encoding_paths.md)
+3. [Delta Time・Fixed Step・Frame制御](03_delta_time_fixed_step_frame_control.md)
 
 ## 今後制作するノート
 
-3. Delta Time・Fixed Step・Frame制御
 4. Keyboard・Mouse・Gamepad
 5. 2D座標・図形・文字描画
 6. Texture・Handle・2D Sprite
