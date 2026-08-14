@@ -24,10 +24,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 18. [Blend・Alpha・Render Target](18_blend_alpha_render_target.md)
 19. [Depth Stencil State](19_depth_stencil_state.md)
 20. [DirectXMath・座標・行列](20_directxmath_coordinates_matrices.md)
+21. [Camera・Projection](21_camera_projection.md)
 
 ## 今後制作するDirectX 11ノート
 
-21. Camera・Projection
 22. Lighting・Normal・Material
 23. Model・Mesh・Animation
 24. Shadow Mapping
