@@ -14,10 +14,10 @@ Unity編の完了後、C++基礎をDXライブラリ上の実ゲームへ統合�
 8. [Sound・Music・Voice管理](08_sound_music_voice_management.md)
 9. [2D Collision・Spatial Query](09_2d_collision_spatial_query.md)
 10. [Scene・Application State](10_scene_application_state.md)
+11. [Resource Cache・RAII](11_resource_cache_raii.md)
 
 ## 今後制作するノート
 
-11. Resource Cache・RAII
 12. Debug Log・Gizmo・Error処理
 13. 3D数学・座標・行列
 14. 3D Camera・Projection
