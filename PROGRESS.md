@@ -52,5 +52,5 @@
 - [x] Unreal Engine（49章の初稿完成）
 - [x] Unity（全34章の初稿完成）
 - [x] DXライブラリ（全35章の初稿完成）
-- [~] DirectX（DirectX 11第11章：Vertex Shader・Pixel Shaderまで追加）
+- [~] DirectX（DirectX 11第12章：Vertex Buffer・Input Layoutまで追加）
 - [ ] 対応する実行例
