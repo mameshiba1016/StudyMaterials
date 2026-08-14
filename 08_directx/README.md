@@ -34,10 +34,10 @@ DXライブラリ編の後、Windows、DirectX Graphics Infrastructure（DXGI）
 28. [Multithread・Deferred Context](28_multithread_deferred_context.md)
 29. [Device Lost・Resize・Fullscreen](29_device_lost_resize_fullscreen.md)
 30. [GPU Debug・PIX・Profiler](30_gpu_debug_pix_profiler.md)
+31. [Renderer Architecture・Frame Graph](31_renderer_architecture_frame_graph.md)
 
 ## 今後制作するDirectX 11ノート
 
-31. Renderer Architecture・Frame Graph
 32. DirectX 11総合3D戦闘描画
 
 ## DirectX 12編予定
