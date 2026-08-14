@@ -45,10 +45,10 @@ DirectX 11編は全32章を追加済みです。個別APIを暗記するだけ�
 2. [Windows SDK・Debug Layer・Factory・Adapter・Device](34_directx12_sdk_debug_factory_adapter_device.md)
 3. [Command Queue・Allocator・Command List](35_directx12_command_queue_allocator_list.md)
 4. [Fence・Event・Frame Resource](36_directx12_fence_event_frame_resource.md)
+5. [Swap Chain・RTV・Present](37_directx12_swap_chain_rtv_present.md)
 
 ## 今後制作するDirectX 12ノート
 
-5. Swap Chain・RTV・Present
 6. Descriptor Heap・Handle・Allocator
 7. Root Signature・Resource Binding
 8. Pipeline State Object・Shader
