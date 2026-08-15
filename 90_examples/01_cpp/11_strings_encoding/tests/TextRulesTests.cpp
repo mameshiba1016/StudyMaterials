@@ -1,0 +1,4 @@
+#include "TextRules.h"
+#include <iostream>
+namespace{int C(bool v,const char*n){if(v){std::cout<<"[PASS] "<<n<<'\n';return 0;}std::cerr<<"[FAIL] "<<n<<'\n';return 1;}}
+int main(){int f=0;f+=C(std::string{"相棒"}.size()==6,"utf8 bytes");f+=C(cpp_study::CountUtf8CodePoints("相棒")==2,"utf8 code points");f+=C(cpp_study::CountUtf8CodePoints("A技1")==3,"mixed text");f+=C(cpp_study::Contains("HeavyAttack","Attack"),"find present");f+=C(!cpp_study::Contains("Dodge","Attack"),"find absent");f+=C(cpp_study::BuildBattleMessage("Hero",-5)=="Hero dealt 0 damage.","message clamp");f+=C(cpp_study::BuildBattleMessage("",10)=="Unknown dealt 10 damage.","empty fallback");f+=C(cpp_study::TrimAsciiSpaces("  skill name  ")=="skill name","trim");f+=C(cpp_study::TrimAsciiSpaces("   ").empty(),"trim all spaces");std::cout<<"失敗数: "<<f<<'\n';return f==0?0:1;}

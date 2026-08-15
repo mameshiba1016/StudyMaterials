@@ -14,3 +14,4 @@
 8. [関数](08_functions/README.md)
 9. [スコープ・記憶域期間・寿命](09_scope_storage_lifetime/README.md)
 10. [配列](10_arrays/README.md)
+11. [文字列とエンコーディング](11_strings_encoding/README.md)
