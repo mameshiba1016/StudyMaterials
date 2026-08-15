@@ -16,3 +16,4 @@
 10. [配列](10_arrays/README.md)
 11. [文字列とエンコーディング](11_strings_encoding/README.md)
 12. [列挙型](12_enumerations/README.md)
+13. [構造体](13_structures/README.md)
