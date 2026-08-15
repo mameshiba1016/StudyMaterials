@@ -11,3 +11,4 @@
 5. [演算子](05_operators/README.md)
 6. [条件分岐](06_conditionals/README.md)
 7. [反復処理](07_loops/README.md)
+8. [関数](08_functions/README.md)
