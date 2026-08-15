@@ -12,3 +12,4 @@
 6. [条件分岐](06_conditionals/README.md)
 7. [反復処理](07_loops/README.md)
 8. [関数](08_functions/README.md)
+9. [スコープ・記憶域期間・寿命](09_scope_storage_lifetime/README.md)
