@@ -10,3 +10,4 @@
 4. [コメントの種類と処理意図](04_comments_and_intent/README.md)
 5. [演算子](05_operators/README.md)
 6. [条件分岐](06_conditionals/README.md)
+7. [反復処理](07_loops/README.md)
