@@ -72,3 +72,4 @@ Engine固有Projectでは、そのEngineが要求する標準構成を優先し�
 - C++実習01：[プログラム構造・ヘッダー・翻訳単位](01_cpp/01_program_structure/README.md)
 - C++実習02：[コンパイル・静的ライブラリ・リンク](01_cpp/02_compile_and_link/README.md)
 - C++実習03：[型・変数・初期化](01_cpp/03_types_variables_initialization/README.md)
+- C++実習04：[コメントの種類と処理意図](01_cpp/04_comments_and_intent/README.md)
