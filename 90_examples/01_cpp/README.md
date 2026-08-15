@@ -9,3 +9,4 @@
 3. [型・変数・初期化](03_types_variables_initialization/README.md)
 4. [コメントの種類と処理意図](04_comments_and_intent/README.md)
 5. [演算子](05_operators/README.md)
+6. [条件分岐](06_conditionals/README.md)
